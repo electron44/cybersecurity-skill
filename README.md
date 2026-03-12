@@ -209,8 +209,8 @@ To add a new framework: create a file in `references/`, add detection signals to
 
 ## Author
 
-Built by **Ousmane Diene** — Fullstack Engineer at Jasmine Conseil, Dakar, Senegal.  
-Specialization: Java/Spring Boot, Angular, DevSecOps, customs administration systems (Douanes Senegalaises — GAINDE Modulaire platform).
+Built by **Ousmane Diene** - Fullstack Engineer , Dakar, Senegal.  
+DevOps actually working at customs administration systems (Douanes Senegalaises ).
 
 ---
 
