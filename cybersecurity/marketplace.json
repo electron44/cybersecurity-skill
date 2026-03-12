@@ -2,7 +2,7 @@
   "name": "cybersecurity",
   "version": "2.0.0",
   "description": "Expert cybersecurity skill covering OWASP Web Top 10, OWASP LLM Top 10, bug bounty reports, secure code review (Java/Spring Boot, Angular, Node, Python), Docker/Kubernetes hardening, NIST CSF 2.0, ISO 27001:2022, CIS Controls v8, and STRIDE threat modeling. Triggers automatically on security-related tasks.",
-  "author": "ben-jasmine-conseil",
+  "author": "ben",
   "license": "MIT",
   "keywords": [
     "cybersecurity",
