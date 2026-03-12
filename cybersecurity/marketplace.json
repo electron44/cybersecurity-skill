@@ -1,0 +1,30 @@
+{
+  "name": "cybersecurity",
+  "version": "2.0.0",
+  "description": "Expert cybersecurity skill covering OWASP Web Top 10, OWASP LLM Top 10, bug bounty reports, secure code review (Java/Spring Boot, Angular, Node, Python), Docker/Kubernetes hardening, NIST CSF 2.0, ISO 27001:2022, CIS Controls v8, and STRIDE threat modeling. Triggers automatically on security-related tasks.",
+  "author": "ben-jasmine-conseil",
+  "license": "MIT",
+  "keywords": [
+    "cybersecurity",
+    "owasp",
+    "security",
+    "pentest",
+    "bug-bounty",
+    "code-review",
+    "nist",
+    "iso27001",
+    "cis-controls",
+    "llm-security",
+    "prompt-injection",
+    "vulnerability-analysis",
+    "docker-hardening",
+    "kubernetes-security",
+    "stride",
+    "threat-modeling"
+  ],
+  "install": "cybersecurity",
+  "skill_path": "cybersecurity",
+  "min_claude_version": "claude-sonnet-4",
+  "platforms": ["claude.ai", "claude-code", "api"],
+  "category": "security"
+}
