@@ -1,6 +1,6 @@
 # cybersecurity-skill
 
-**Expert cybersecurity skill for Claude — OWASP · NIST CSF · ISO 27001 · CIS Controls · LLM Security**
+**Expert cybersecurity skill for Claude  OWASP · NIST CSF · ISO 27001 · CIS Controls · LLM Security**
 
 A modular, production-grade security skill for Claude that applies a 7-layer defensive analysis methodology across web applications, APIs, infrastructure, LLM systems, and enterprise compliance frameworks. Built to function as a universal defensive intelligence layer — not a checklist, but a reasoning engine that adapts to context.
 
